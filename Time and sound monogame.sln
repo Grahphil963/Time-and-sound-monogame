@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time and sound monogame", "Time and sound monogame.csproj", "{7DB818A4-19B0-4388-A234-7D29DFB3CCFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DB818A4-19B0-4388-A234-7D29DFB3CCFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB818A4-19B0-4388-A234-7D29DFB3CCFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB818A4-19B0-4388-A234-7D29DFB3CCFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB818A4-19B0-4388-A234-7D29DFB3CCFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A31A5504-2BC3-4E40-8263-73EB9943B224}
+	EndGlobalSection
+EndGlobal
