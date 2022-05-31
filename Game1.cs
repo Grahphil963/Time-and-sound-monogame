@@ -26,7 +26,7 @@ namespace Time_and_sound_monogame
         float seconds;
         float startTime;
         bool exploded;
-
+        bool defuse;
 
 
 
